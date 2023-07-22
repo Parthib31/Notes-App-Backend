@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/app.js",
-    "build": "cd keeper_app && npm install && npm run build"
   },
   "engines": {
     "node": "18.14.2"
